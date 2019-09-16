@@ -1,0 +1,1 @@
+create a new repository in github and call it SEG2105_LAB1_YOURNAME
