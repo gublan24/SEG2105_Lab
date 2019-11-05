@@ -2,4 +2,4 @@
 You need to do two things: 
  	Lab 07 - Testing.pdf AND Continuous Integration.pptx 
   
- 
+ If the link in  	Lab 07 does not work. Create you own login page. Its simple.
