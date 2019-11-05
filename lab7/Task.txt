@@ -1,0 +1,5 @@
+
+You need to do two things: 
+ 	Lab 07 - Testing.pdf AND Continuous Integration.pptx 
+  
+ 
